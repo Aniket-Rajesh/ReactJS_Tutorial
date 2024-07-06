@@ -1,0 +1,16 @@
+/* This is how we add styles to class */
+.heading {
+  color: red;
+}
+
+/* This is how we add styles to elements by tagnames.*/
+ul {
+  color: blue;
+}
+
+.food-img {
+  height: 100px;
+  width: 100px;
+  border: 1px solid;
+  margin: 10px;
+}
